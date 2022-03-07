@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sort-Alog/static/css/main.e6c13ad2.css",
+    "main.js": "/Sort-Alog/static/js/main.a2f41fde.js",
+    "static/js/787.80cfcf6c.chunk.js": "/Sort-Alog/static/js/787.80cfcf6c.chunk.js",
+    "index.html": "/Sort-Alog/index.html",
+    "main.e6c13ad2.css.map": "/Sort-Alog/static/css/main.e6c13ad2.css.map",
+    "main.a2f41fde.js.map": "/Sort-Alog/static/js/main.a2f41fde.js.map",
+    "787.80cfcf6c.chunk.js.map": "/Sort-Alog/static/js/787.80cfcf6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a2f41fde.js"
+  ]
+}
